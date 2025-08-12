@@ -3,9 +3,12 @@
 **Senior Principal Engineer | Electrical Hardware Design | Technical Program Manager | New Product Introduction and Quality Manager**
 
 🔧 I’m a seasoned, cross-functional engineering leader with over two decades of experience delivering complex hardware & system solutions across global markets. I bring a rare blend of deep technical fluency, disciplined program management, and a quality-first mindset. My strength lies in connecting the dots, from design & development to manufacturing & customer impact, ensuring that innovation scales with precision & reliability
+
 🌍 I’ve successfully launched multiple platforms through NPI, led cross-functional teams across continents, & navigated the challenges of global supply chains, regulatory compliance, & cost optimization. A recent highlight includes spearheading a companywide UI hardware redesign, resulting in $15M in cross-portfolio savings & improved manufacturability.
+
 I have led Electrical Hardware R&D teams & managed global sustaining & quality engineering functions. 
 I developed metrics to track field & factory performance data, guiding root-cause resolution efforts that resulted in a 20% reduction in warranty costs & improved customer satisfaction. I champion data-driven decision-making, leveraging KPIs, dashboards, & retrospectives to drive operational excellence.
+
 I thrive at the intersection of engineering, execution, & strategy, collaborating with multidisciplinary teams spanning electrical, mechanical, firmware, software, & manufacturing engineering. I’m fluent in both agile & waterfall development, & equally comfortable troubleshooting technical issues, aligning executives, or managing key suppliers. 
 
 📍 Based in San Diego, CA | [LinkedIn](https://www.linkedin.com/in/amarjit-bhatia-3627207/) | ✉️ amarjitbhatia1@gmail.com

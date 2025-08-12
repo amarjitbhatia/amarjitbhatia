@@ -15,13 +15,14 @@ Here are some selected hardware system projects I’ve contributed to, focusing 
 - [**Capacitive Touch UI Panel**](https://github.com/amarjitbhatia/touchpanel-ui)  
   Integrated a capacitive UI panel with an embedded wireless print module for enhanced user experience in consumer electronics.
 
-- [**Laptop Lid Camera Integration**](https://github.com/amarjitbhatia/laptop-lid-camera)  
-  Developed a product concept using rigid-flex PCB, integrated camera module into the outer lid, incorporating EMI shielding techniques.
+- [**NPI Manager**](https://github.com/amarjitbhatia/NPI_management)  
+  Drove successful launch of multiple products in the portfolio , adding 10.5 million units to the global install base and generating over $1.4B in hardware revenue.
+ Led end-to-end NPI for six consumer hardware platforms—driving cross-functional execution from concept through ramp, scaling to 500K units/month while meeting aggressive cost, quality, and time-to-market goals
 
 - [**Main Logic Board Integration of Photocard (Wireless)**](https://github.com/amarjitbhatia/Main-Logic_photocard_intgeration)  
   Wireless card integration onto the main logic board for compact photo printing systems.
 
-- [**Main Logic Board Integration of Photocard (SD Card Reader)**](https://github.com/amarjitbhatia/Main-Logic_photocard)  
+- [**Quality management of HP print portfolio**](https://github.com/amarjitbhatia/Quality_System_management)  
   Hardware-level integration of photo card SD card reader into the primary logic board for streamlined image processing.
 
 ---

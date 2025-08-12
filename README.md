@@ -26,7 +26,7 @@ Here are some selected hardware system projects I’ve contributed to, focusing 
   Drove successful launch of multiple products in the portfolio , adding 10.5 million units to the global install base and generating over $1.4B in hardware revenue.
  Led end-to-end NPI for six consumer hardware platforms—driving cross-functional execution from concept through ramp, scaling to 500K units/month while meeting aggressive cost, quality, and time-to-market goals
 
-- [**Quality management of HP print portfolio**](https://github.com/amarjitbhatia/Quality_System_management)  
+- [**Global Quality and Sustaining engineering manager entire HP inkjet print portfolio**](https://github.com/amarjitbhatia/Quality_System_management)  
   As a Quality manager I built an end-to-end quality system spanning design, production, and end-of-life, significantly improving product reliability and customer satisfaction.
   
 ## 🧰 Skills & Expertise

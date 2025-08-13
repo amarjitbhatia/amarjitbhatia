@@ -31,7 +31,7 @@ Here are some selected hardware system projects I’ve contributed to, focusing 
 - [**Immersion Tin to OSP conversion**](https://github.com/amarjitbhatia/OSP_conversion)  
   Cross functional project to convert PCB finish from Immersion Tin to Organic Solderability Preservative (OSP)
 - [**EMC Optimization**](https://github.com/amarjitbhatia/EMC_optimization)  
-  Cross functional project to convert PCB finish from Immersion Tin to Organic Solderability Preservative (OSP) 
+I studied the use of ferrites, EMC components, and cable shielding in the product design, then implemented a redesign to optimize cost and enhance Wi-Fi RF performance. The redesign included removal of ferrites and cable shielding, followed by A/B testing with modifications in both 3-meter and 10-meter chambers for RFI performance validation. Additionally, the main logic board was redesigned to achieve further system-level optimizations, ensuring compliance with CISPR requirements for Germany and the European Union, including EFT and conducted immunity testing, while balancing regulatory compliance, RF performance, and system integration.
 
 
 ---

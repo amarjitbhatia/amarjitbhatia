@@ -41,6 +41,14 @@ Here are some selected hardware system projects I’ve contributed to, focusing 
 - [**Global Quality and Sustaining Engineering Manager entire HP inkjet print portfolio**](https://github.com/amarjitbhatia/Quality_System_management)  
   As a Quality manager I built an end-to-end quality system spanning design, production, and end-of-life, significantly improving product reliability and customer satisfaction.
   
+  ## Certification and memberships
+- [**Project management institute**](https://github.com/amarjitbhatia/PMI)  
+  I am a certified member of the Project Management Institute (PMI) and an active member of the PMI San Diego Chapter!
+  This marks an important step in my commitment to continuous professional growth and staying connected with a vibrant community of project management professionals
+  - [**Altium designer**](https://github.com/amarjitbhatia/AltiumDesigner)  
+  Certification in advanced PCB Design (DT-226 and DT-227)using Altium PCB designer, a 32-week intensive program focused on real-world skills in printed circuit board design
+
+  
 ## 🧰 Skills & Expertise
 
 - **Technical Program Management & NPI Leadership:** Full-cycle NPI execution, EVT/DVT/PVT readiness, portfolio optimization, multi-region builds, waterfall & hybrid project management  

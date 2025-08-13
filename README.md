@@ -22,10 +22,10 @@ Here are some selected hardware system projects I’ve contributed to, focusing 
 - [**Capacitive Touch UI Panel**](https://github.com/amarjitbhatia/touchpanel-ui)  
   Integrated a capacitive UI panel with an embedded wireless print module for enhanced user experience in consumer electronics.
   
-- [**Main Logic Board redesign high volume product)**](https://github.com/amarjitbhatia/Main-Logic_redesign)  
+- [**Main Logic Board redesign high volume product**](https://github.com/amarjitbhatia/Main-Logic_redesign)  
   Re-design Main Logic Board for high volume product to acheive cost optimization.
   
-- [**Circuit design and optimization projects)**](https://github.com/amarjitbhatia/Circuit_optimization)  
+- [**Circuit design and optimization projects**](https://github.com/amarjitbhatia/Circuit_optimization)  
   Exqamples of design optimization to generate savings on consumer products.
   
 - [**Immersion Tin to OSP conversion**](https://github.com/amarjitbhatia/OSP_conversion)  

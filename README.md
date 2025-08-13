@@ -25,7 +25,7 @@ Here are some selected hardware system projects I’ve contributed to, focusing 
 - [**Main Logic Board redesign high volume product**](https://github.com/amarjitbhatia/Main_Logic_redesign)  
   Re-design Main Logic Board for high volume product to achieve cost optimization.
   
-- [**Design and optimization projects**](https://github.com/amarjitbhatia/Design_optimizations)  
+- [**Design Optimization projects**](https://github.com/amarjitbhatia/Design_optimizations)  
   Examples of design optimization to generate savings on consumer products.
   
 - [**Immersion Tin to OSP conversion**](https://github.com/amarjitbhatia/OSP_conversion)  

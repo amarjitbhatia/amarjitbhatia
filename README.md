@@ -29,6 +29,8 @@ Here are some selected hardware system projects I’ve contributed to, focusing 
   Examples of design optimization to generate savings on consumer products.
   
 - [**Immersion Tin to OSP conversion**](https://github.com/amarjitbhatia/OSP_conversion)  
+  Cross functional project to convert PCB finish from Immersion Tin to Organic Solderability Preservative (OSP)
+- [**EMC Optimization**](https://github.com/amarjitbhatia/EMC_optimization)  
   Cross functional project to convert PCB finish from Immersion Tin to Organic Solderability Preservative (OSP) 
 
 

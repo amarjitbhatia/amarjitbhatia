@@ -28,7 +28,7 @@ Here are some selected hardware system projects I’ve contributed to, focusing 
 - [**Circuit design and optimization projects)**](https://github.com/amarjitbhatia/Circuit_optimization)  
   Exqamples of design optimization to generate savings on consumer products.
   
-  - [**OSP conversion)**](https://github.com/amarjitbhatia/OSP_conversion)  
+- [**OSP conversion)**](https://github.com/amarjitbhatia/OSP_conversion)  
   Cross functional project to convert PCB finish from Immersion Tin to Organic Solderability Preservative (OSP) 
 
 

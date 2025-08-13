@@ -43,11 +43,13 @@ Here are some selected hardware system projects I’ve contributed to, focusing 
   
 ## 🧰 Skills & Expertise
 
-- **Electrical System Design:** High-speed digital & mixed-signal design, LVDS, USB, I2C, SPI, MIPI, EMC/EMI mitigation  
-- **PCB Design & Layout:** Altium Designer, Cadence Allegro, Rigid-Flex, Multi-layer, HDI, Signal & Power Integrity  
-- **System Integration:** Embedded systems, wireless modules, UI panel integration, camera & sensor interface  
-- **Program Management:** Cross-functional leadership, NPI, sustaining engineering, BOM management  
-- **Quality Engineering:** QMS, DFX, field failure analysis, 7-step & 8D methodology
+- **Technical Program Management & NPI Leadership:** Full-cycle NPI execution, EVT/DVT/PVT readiness, portfolio optimization, multi-region builds, waterfall & hybrid project management  
+- **Product Development & Hardware Optimization:** Electrical & mechanical system design, mixed-signal PCB, rigid-flex, high-speed I/O, mechanical integration, design-driven cost savings  
+- **Cross-Functional Global Team Leadership:** Multi-site coordination across CM, OEM, and ODM partners; embedded systems, sensors, UI architecture; global engineering collaboration  
+- **Supplier & Manufacturing Management:** BOM optimization, supplier negotiation, cost reduction, contract manufacturing oversight, production ramp management  
+- **Quality Management & Compliance:** QMS and QAP implementation, field failure analysis, EMC/EMI mitigation, safety & regulatory compliance, governance frameworks  
+- **Stakeholder Engagement & Communication:** VP+ briefings, data-driven decision support, milestone tracking, risk management, and roadmap alignment  
+- **Firmware & Software Integration:** Cross-discipline collaboration for firmware bring-up, software integration, and embedded system validation  
 
 ---
 
